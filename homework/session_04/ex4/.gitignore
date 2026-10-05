@@ -1,0 +1,6 @@
+credentials.txt
+.DS_Store
+*.swp
+*.tmp
+.idea/
+.vscode/
